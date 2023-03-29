@@ -1,0 +1,2 @@
+mpu6050_serial_to_imu
+-DCATKIN_DEVEL_PREFIX=/home/py20/Documents/MaRS/imu_setup/github_package/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/py20/Documents/MaRS/imu_setup/github_package/catkin_ws/install -G Unix Makefiles
